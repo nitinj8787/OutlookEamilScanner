@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannerEWS1", "ScannerEWS1\ScannerEWS1.csproj", "{BAD63E2D-9529-4410-A52A-A549E6154F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD63E2D-9529-4410-A52A-A549E6154F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD63E2D-9529-4410-A52A-A549E6154F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD63E2D-9529-4410-A52A-A549E6154F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD63E2D-9529-4410-A52A-A549E6154F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {426A07CA-AA87-453C-80E8-CD64F128F7E1}
+	EndGlobalSection
+EndGlobal
